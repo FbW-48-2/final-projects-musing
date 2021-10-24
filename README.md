@@ -47,13 +47,14 @@ So in case you wanna run "nodemon" on your terminal after you switched the versi
 
 The backend team can have a different Node Major version than the frontend team. That is alright. 
 
-But all members which work on the SAME code base / repository, must use the same node major version to prevent unresolvable conflicts.
+But all members which work on the SAME codebase / repository, must use the same node major version to prevent unresolvable conflicts.
 
 ### Libraries
 
 - Same UI Library for everyone please!
+- No mixing of UI library libraries like Material-UI v4 and v5
 - Vanilla JS libs only when there is no React alternative
-- Minimum: Feasability test of libs
+- Minimum: Little feasability test of new libs before inclusion in project code
 
 <br /><br />
 
@@ -61,7 +62,7 @@ But all members which work on the SAME code base / repository, must use the same
 
 - Folder structure: Discuss & keep it!
 - Try to avoid working on same files
-- Pick a Git Merge strategy (e.g. GitHub Flow)
+- Pick a Git Merge strategy (e.g. GitHub Flow is ideal for small teams)
 - First merges ideally together
 - Deploy backend early!
 
@@ -72,9 +73,9 @@ But all members which work on the SAME code base / repository, must use the same
 
 ### API Connect Guide
 
-Find how to do REST calls against your backend from React and how to process the result in your state:
+Find how to do REST calls against your backend (fetch & Axios) from React and how to process the result in your frontend state
 
-https://github.com/losrobbos/api-connect-guide
+https://github.com/losrobbos/api-connect-guide#using-fetch
 
 ### Data Modeling 
 
@@ -99,7 +100,13 @@ Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
 
 The simple GitHub flow guide for teams: https://github.com/losrobbos/github-flow-guide
 
+With a concrete scenario description for coding in parallel and doing merges of features.
+
 ### App Development for Smartphone
+
+What are the main differences between React & React Native? What do we need to watch out for?
+
+And how can we test it out before making a decision to use it?
 
 React Native Guide: https://github.com/losrobbos/react-native-guide
 
