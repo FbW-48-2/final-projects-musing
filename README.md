@@ -1,6 +1,6 @@
 # Final Projects
 
-Find here some orga suggestions & resources that might support you in your upcoming team coding experience.
+Find here some orga suggestions & resources that might support you in your upcoming team coding adventure.
 
 ## Teacher Meetings
 
@@ -19,7 +19,9 @@ Most important: Use the same Node MAJOR Version for the whole backend / frontend
 
 Why?
 
-A lot of libraries depend on a certain Node major version to function properly. In case we use different major version, we can get into the nasty scenario, that for some folks a library works in their project, but for others the very same project code will produce super strange errors!
+A lot of libraries depend on a certain Node major version to function properly. 
+
+In case we use different major version, we can get into the nasty scenario, that for some folks a library works in their project, but for others the very same project code will produce super strange errors!
 
 Therefore it is important to align our Node versions to prevent these very unpleasant scenarios :)
 
@@ -47,13 +49,13 @@ The backend team can have a different Node Major version than the frontend team.
 
 But all members which work on the SAME code base / repository, must use the same node major version to prevent unresolvable conflicts.
 
-
 ### Libraries
 
 - Same UI Library for everyone please!
 - Vanilla JS libs only when there is no React alternative
 - Minimum: Feasability test of libs
 
+<br /><br />
 
 ## Coding orga
 
@@ -63,6 +65,8 @@ But all members which work on the SAME code base / repository, must use the same
 - First merges ideally together
 - Deploy backend early!
 
+
+<br /><br />
 
 ## Resources
 
