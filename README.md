@@ -100,7 +100,7 @@ Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
 
 ### Git Team Branching & Merging
 
-The simple GitHub flow guide for teams: https://github.com/losrobbos/github-flow-guide
+The simple GitHub flow guide for teams: https://github.com/losrobbos/github-flow-guide/blob/main/GIT_WORKFLOW.github.md
 
 With a concrete scenario description for coding in parallel and doing merges of features.
 
