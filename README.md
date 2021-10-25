@@ -34,6 +34,7 @@ How to switch between Node Version easily?
 With NVM (Node Version Manager) you can easily install & switch your Node version from the terminal like this:
 
 `nvm install 15` // install latest version 15
+
 `nvm use 16` // switch to another installed node version 16
 
 Install Notes: https://github.com/nvm-sh/nvm
@@ -93,8 +94,9 @@ And another branch (multer-form-data) which shows how to upload raw binary data 
 
 ### Deployment 
 
-- Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
-- Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
+Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
+
+Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
 
 ### Git Team Branching & Merging
 
