@@ -11,7 +11,7 @@ Find here some orga suggestions & resources that might support you in your upcom
 
 ## Tech Stack
 
-Following some notes on Node Version and Libraries to safe in advance you from as much pain as possible :)
+Following some notes on Node Version and Libraries to save ya in advance from as much pain as possible :)
 
 ### Node Version
 
