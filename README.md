@@ -31,7 +31,7 @@ How to switch between Node Version easily?
 
 #### NVM
 
-With NVM (Node Module Manager) you can easily install & switch your Node version from the terminal like this:
+With NVM (Node Version Manager) you can easily install & switch your Node version from the terminal like this:
 
 `nvm install 15` // install latest version 15
 `nvm use 16` // switch to another installed node version 16
