@@ -53,7 +53,7 @@ But all members which work on the SAME codebase / repository, must use the same 
 ### Libraries
 
 - Same UI Library for everyone please!
-- No mixing of UI library libraries like Material-UI v4 and v5
+- No mixing of UI library major versions like Material-UI v4 and v5 in one repo!
 - Vanilla JS libs only when there is no React alternative
 - Minimum: Little feasability test of new libs before inclusion in project code
 
