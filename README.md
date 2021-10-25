@@ -93,8 +93,8 @@ And another branch (multer-form-data) which shows how to upload raw binary data 
 
 ### Deployment 
 
-Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
-Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
+- Vercel Deploy Guide: https://github.com/losrobbos/vercel-deploy-guide
+- Heroku Deploy Guide: https://github.com/losrobbos/heroku-node-deploy-guide
 
 ### Git Team Branching & Merging
 
